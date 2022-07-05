@@ -1,3 +1,5 @@
+https://github.com/renovatebot/renovate/issues/15580
+
 # Renovate rewrites terraform lock constraints
 
 With current repository renovate will rewrite `constraints` in
