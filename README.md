@@ -9,7 +9,7 @@ should remain as is.
 ## Terraform behaviour
 
 Terraform collects all provider requirements from current code and included
-state, combines them together and uses constraints field to calculate exact
+modules, combines them together and uses constraints field to calculate exact
 provider version that complies give constraints.
 
 Renovate rewriting this field has two problems:
